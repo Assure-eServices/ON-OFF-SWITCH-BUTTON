@@ -10,9 +10,7 @@ Custamizable Button labels, to set true/false(1/0) value to variable in Qlik Sen
 
 
 #Screenshot
-![extension](https://cloud.githubusercontent.com/assets/17881853/14144090/06ccdbd0-f6ac-11e5-856a-b652bec31dae.png)
-
-![on off switch](https://cloud.githubusercontent.com/assets/17881853/14285163/1534cdf2-fb68-11e5-8f8a-491b9ddea180.png)
+![extension](https://cloud.githubusercontent.com/assets/17881853/14144090/06ccdbd0-f6ac-11e5-856a-b652bec31dae.png)    ![on off switch](https://cloud.githubusercontent.com/assets/17881853/14285163/1534cdf2-fb68-11e5-8f8a-491b9ddea180.png)
 
 ![custom properties](https://cloud.githubusercontent.com/assets/17881853/14144036/ccc24646-f6ab-11e5-82d7-22699d9d91ab.png)
 
