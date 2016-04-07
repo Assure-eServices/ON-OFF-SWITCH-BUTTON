@@ -36,7 +36,9 @@ Custamizable Button labels, to set true/false(1/0) value to variable in Qlik Sen
 
 3. Customizable labels, default labels are OFF/ON, OFF - 0 and ON - 1. Label can be modified to $/#, $/%, True/False, Yes/No... 	  Or as required
 
-![label text](https://cloud.githubusercontent.com/assets/17881853/14144309/cef92956-f6ac-11e5-9b7c-b2fb92a8c5ec.png)           ![variable](https://cloud.githubusercontent.com/assets/17881853/14144380/0335ec22-f6ad-11e5-8ac8-ad90303423fb.png)	
+![label text](https://cloud.githubusercontent.com/assets/17881853/14144309/cef92956-f6ac-11e5-9b7c-b2fb92a8c5ec.png)
+
+![variable](https://cloud.githubusercontent.com/assets/17881853/14144380/0335ec22-f6ad-11e5-8ac8-ad90303423fb.png)	
 	
 
 
