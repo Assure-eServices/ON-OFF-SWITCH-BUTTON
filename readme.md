@@ -34,10 +34,9 @@ Custamizable Button labels, to set true/false(1/0) value to variable in Qlik Sen
 
 ![variable](https://cloud.githubusercontent.com/assets/17881853/14144380/0335ec22-f6ad-11e5-8ac8-ad90303423fb.png)	
 	
-Drag and drop the visualization extension into a Qlik Sense sheet and define variable name
-
-	* Label 1 value is 0 and Label 2 value is 1
-	* Customizable labels, default labels are OFF/ON, OFF - 0 and ON - 1. Label can be modified to $/#, $/%, True/False, Yes/No... 	  Or as required
+1. Drag and drop the visualization extension into a Qlik Sense sheet and define variable name
+2. Label 1 value is 0 and Label 2 value is 1 by default
+3. Customizable labels, default labels are OFF/ON, OFF - 0 and ON - 1. Label can be modified to $/#, $/%, True/False, Yes/No... 	  Or as required
 
 # Examples
 ![examples](https://cloud.githubusercontent.com/assets/18327523/14351693/4a555768-fcee-11e5-95f9-285f4c86e6d4.png)
