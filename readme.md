@@ -1,5 +1,5 @@
 # ON-OFF-Switch-Button
-Custamizable Button labels, to set true/false(1/0) value to variable in Qlik Sense
+Customizable Button labels, to set true/false(1/0) value to variable in Qlik Sense
 
 ## Table of Contents
 * [Screenshot](#screenshot)
