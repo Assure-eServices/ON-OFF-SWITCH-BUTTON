@@ -47,6 +47,8 @@ Customizable Button labels, to set true/false(1/0) value to variable in Qlik Sen
 	
 # Author
 
-**Assure eServices Pvt. Ltd. ** 
+![aes logo transperant - small](https://cloud.githubusercontent.com/assets/18327523/14427159/d6e64e9c-0010-11e6-9532-d4682e9ea0a0.png)
 
-[github.com/Assureeservices](http://github.com/Assureeservices)
+**Assure eServices Inc., **
+
+(http://github.com/Assureeservices)
